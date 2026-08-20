@@ -19,12 +19,13 @@ export function Participate() {
             </p>
 
             <h2 className="mt-4 font-display text-[clamp(2.1rem,4.6vw,3.6rem)] font-extrabold leading-[1.02]">
-              Sua comunidade tem uma demanda. Vamos transformá-la em projeto.
+              Jundiaí em demandas.
             </h2>
 
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/70">
-              Envie a pauta do seu bairro, da sua entidade ou do seu município.
-              Fale diretamente com a equipe de Eduardo Vidal pelo WhatsApp.
+              Conte o que precisa melhorar no seu bairro, na sua comunidade ou na cidade. Sua
+              mensagem ajuda a construir prioridades e orientar o trabalho que quero levar para
+              Brasília.
             </p>
 
             <div className="mt-9 flex flex-wrap gap-4">
@@ -40,12 +41,13 @@ export function Participate() {
               </a>
 
               <a
-                href="#bandeiras"
+                href="#realizacoes"
                 className="inline-flex items-center gap-2 rounded-sm border border-white/30 px-7 py-4 font-display text-sm font-bold tracking-widest transition-colors hover:border-brand-yellow hover:text-brand-yellow"
               >
-                VER AS BANDEIRAS
+                CONHEÇA O QUE JÁ FIZ
               </a>
             </div>
+
           </div>
 
           {/* CARD ELEITORAL COM FOTO INTEGRADA */}

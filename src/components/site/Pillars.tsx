@@ -7,13 +7,14 @@ export function Pillars() {
         <div className="reveal max-w-3xl">
           <p className="eyebrow text-brand-yellow">Bandeiras</p>
           <h2 className="mt-4 font-display text-[clamp(2.1rem,4.4vw,3.4rem)] font-extrabold leading-[1.02]">
-            Seis compromissos com prazo, método e prestação de contas.
+            Seis compromissos. Problemas reais. Trabalho para fazer acontecer.
           </h2>
           <p className="mt-6 text-lg leading-relaxed text-white/70">
-            Cada bandeira nasceu de uma demanda concreta ouvida em município paulista — e tem um
-            caminho institucional definido para sair do papel.
+            Bandeiras construídas a partir de problemas reais de São Paulo e Jundiaí com propostas
+            que podem virar legislação, recursos e políticas públicas.
           </p>
         </div>
+
 
         <div className="mt-14 grid gap-px border border-white/10 bg-white/10 md:grid-cols-2 lg:grid-cols-3">
           {pillars.map((p, i) => (
