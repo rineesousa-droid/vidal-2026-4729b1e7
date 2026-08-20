@@ -71,7 +71,7 @@ export function Participate() {
               <div className="relative z-10 px-6 py-12 text-center sm:ml-auto sm:w-[58%] sm:px-8 sm:py-16 sm:text-left">
                 <Vote className="mx-auto size-8 text-brand-yellow sm:mx-0" />
 
-                <p className="eyebrow mt-6 text-white/70">Nas urnas em 2026</p>
+                <p className="eyebrow mt-6 text-white/70">Para deputado federal vote</p>
 
                 <p className="mt-3 font-display text-[5rem] font-black leading-none tracking-tight text-brand-yellow drop-shadow-[0_6px_18px_rgba(0,0,0,0.45)] md:text-[6rem]">
                   {candidate.number}
