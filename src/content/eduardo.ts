@@ -6,7 +6,7 @@ export const candidate = {
   election: "Eleições 2026",
   concept: "Trabalho antes do mandato",
   lead:
-    "Empresário, cientista político e ativista. Há anos Eduardo Vidal transforma problemas reais em articulação política e propostas. Agora quer ampliar esse trabalho na Câmara dos Deputados.",
+    "Sem mandato, Eduardo Vidal já levou demandas da sociedade a Brasília, articulou projetos de lei e ajudou pautas a avançarem no Congresso. Agora, quer ampliar esse trabalho como deputado federal por São Paulo e dar mais voz a Jundiaí em Brasília.",
 };
 
 export const socials = {
@@ -17,57 +17,52 @@ export const socials = {
 
 export const stats = [
   {
-    value: "20 anos",
-    label: "de experiência profissional",
-    note: "Gestão, operações e experiência do cliente",
+    value: "Desde 2019",
+    label: "Atuação nacional",
+    note: "Na defesa de pessoas com doença celíaca e restrições alimentares",
   },
   {
     value: "4",
-    label: "propostas",
+    label: "Propostas",
     note: "Com participação na elaboração e apresentadas no Congresso Nacional",
   },
   {
-    value: "+73%",
-    label: "de crescimento na votação",
-    note: "Na capital paulista em 2024, em relação a 2022",
-  },
-  {
-    value: "Desde 2019",
-    label: "em mobilização nacional",
-    note: "Pelos direitos das pessoas com restrições alimentares",
+    value: "+ de 10",
+    label: "Projetos articulados",
+    note: "Trabalho junto ao Congresso para fazer pautas avançarem",
   },
 ];
 
 export const pillars = [
   {
-    title: "Alimentos sem glúten mais acessíveis",
+    title: "Saúde mais perto de quem precisa",
     summary:
-      "Defesa da redução dos impostos sobre alimentos sem glúten, ampliando o acesso para pessoas que dependem desses produtos diariamente.",
+      "Defender mais recursos para atendimento, diagnóstico e prevenção, com atenção à saúde da criança e às necessidades de Jundiaí e de nossos municípios. Chega de fila!",
     tag: "Saúde",
   },
   {
-    title: "Alimentação segura",
+    title: "Escola que funciona de verdade",
     summary:
-      "Mais segurança alimentar para pessoas com doença celíaca e outras restrições alimentares em hospitais, escolas e espaços públicos.",
+      "Mais recursos e fiscalização para infraestrutura, alimentação escolar, inclusão e condições adequadas para alunos e professores.",
+    tag: "Educação",
+  },
+  {
+    title: "Alimentação segura é um direito",
+    summary:
+      "Avançar na proteção das pessoas com doença celíaca, alergias e outras restrições alimentares em escolas, hospitais e serviços públicos.",
     tag: "Inclusão",
   },
   {
-    title: "Diagnóstico precoce",
+    title: "Menos peso para quem empreende",
     summary:
-      "Ampliar a atenção ao diagnóstico de condições relacionadas às restrições alimentares e melhorar o acesso à informação.",
-    tag: "Saúde",
-  },
-  {
-    title: "Rotulagem mais clara",
-    summary:
-      "Melhorar as informações disponíveis nos rótulos para aumentar a segurança de quem possui restrições alimentares.",
-    tag: "Consumidor",
-  },
-  {
-    title: "Empreendedorismo",
-    summary:
-      "Valorizar quem empreende, gera oportunidades, cria negócios e movimenta a economia brasileira.",
+      "Defender simplificação, segurança jurídica e uma tributação que não penalize quem produz, emprega e mantém pequenos e médios negócios.",
     tag: "Economia",
+  },
+  {
+    title: "Comida segura e mais acessível",
+    summary:
+      "Defender redução da carga tributária sobre alimentos essenciais sem glúten, rotulagem clara e mais segurança para quem possui restrições alimentares.",
+    tag: "Consumidor",
   },
   {
     title: "Inclusão nas políticas públicas",
@@ -77,186 +72,53 @@ export const pillars = [
   },
 ];
 
-export const timeline = [
-  {
-    year: "Ceará",
-    title: "As origens",
-    text:
-      "Eduardo Vidal é cearense e construiu sua trajetória profissional em São Paulo, onde vive há mais de 15 anos.",
-  },
-  {
-    year: "20 anos",
-    title: "Experiência profissional",
-    text:
-      "Empreendedor, acumula cerca de 20 anos de experiência nas áreas de gestão, operações e experiência do cliente, tendo participado da criação e desenvolvimento de negócios em diferentes setores.",
-  },
-  {
-    year: "Formação",
-    title: "Ciência Política",
-    text:
-      "Eduardo é bacharel em Ciência Política, formado pelo RenovaBR e Embaixador Politize!.",
-  },
-  {
-    year: "2019",
-    title: "Uma causa virou mobilização",
-    text:
-      "Inicia uma mobilização nacional pelos direitos das pessoas com doença celíaca e outras restrições alimentares.",
-  },
-  {
-    year: "Congresso",
-    title: "Da mobilização às propostas",
-    text:
-      "Passa a frequentar o Congresso Nacional, dialogar com parlamentares de diferentes partidos e transformar demandas da comunidade em propostas legislativas.",
-  },
-  {
-    year: "2022",
-    title: "Primeira candidatura",
-    text:
-      "Eduardo Vidal disputa sua primeira eleição para Deputado Federal por São Paulo.",
-  },
-  {
-    year: "2024",
-    title: "Candidatura em São Paulo",
-    text:
-      "Candidato a vereador na cidade de São Paulo, aumenta em 73% sua votação na capital em relação a 2022, mesmo sem mandato ou estrutura política tradicional.",
-  },
-  {
-    year: "2026",
-    title: "Candidato a Deputado Federal",
-    text:
-      "Eduardo Vidal é candidato a Deputado Federal por São Paulo, número 2023, ampliando sua atuação também para Jundiaí e região.",
-  },
-];
-
-export const results = [
-  {
-    title: "4 propostas no Congresso",
-    text:
-      "Eduardo participou da elaboração de quatro propostas apresentadas no Congresso Nacional.",
-  },
-  {
-    title: "Articulação de projetos",
-    text:
-      "Também participou da articulação de diversos outros projetos relacionados às demandas das pessoas com doença celíaca e outras restrições alimentares.",
-  },
-  {
-    title: "Propostas voltaram a avançar",
-    text:
-      "Sua atuação ajudou a movimentar propostas que permaneceram durante anos sem avanço no Congresso.",
-  },
-  {
-    title: "Diálogo político",
-    text:
-      "Construiu diálogo com parlamentares de diferentes partidos para transformar demandas reais da comunidade em propostas concretas.",
-  },
-];
-
-export const principles = [
-  "Trabalho para transformar problemas reais em soluções.",
-  "Presença para ouvir as pessoas e conhecer de perto suas necessidades.",
-  "Fiscalização e resultado para transformar boas ideias em políticas públicas.",
-];
-
-export const faq = [
-  {
-    q: "Quem é Eduardo Vidal?",
-    a:
-      "Eduardo Vidal é empresário, cientista político e ativista pela inclusão de pessoas com restrições alimentares. Cearense, vive em São Paulo há mais de 15 anos e mantém forte relação com Jundiaí.",
-  },
-  {
-    q: "Eduardo Vidal já ocupou cargo eletivo?",
-    a:
-      "Não. Eduardo ainda não exerceu mandato eletivo. Sua atuação pública foi construída por meio de mobilização social, diálogo com parlamentares e participação na elaboração e articulação de propostas.",
-  },
-  {
-    q: "O que Eduardo já fez no Congresso Nacional?",
-    a:
-      "Eduardo participou da elaboração de quatro propostas apresentadas no Congresso Nacional e da articulação de diversos outros projetos, especialmente relacionados às pessoas com doença celíaca e outras restrições alimentares.",
-  },
-  {
-    q: "Quais são as principais bandeiras de Eduardo Vidal?",
-    a:
-      "Entre suas principais bandeiras estão a redução dos impostos sobre alimentos sem glúten, alimentação segura em hospitais e escolas, diagnóstico precoce, melhoria da rotulagem, inclusão nas políticas públicas, além de atenção à saúde, educação e empreendedorismo.",
-  },
-  {
-    q: "Qual é o número de Eduardo Vidal para Deputado Federal?",
-    a:
-      "Eduardo Vidal é candidato a Deputado Federal por São Paulo com o número 2023.",
-  },
-  {
-    q: "Por que Eduardo quer ser Deputado Federal?",
-    a:
-      "Depois de anos acompanhando o Congresso Nacional e participando da construção e articulação de propostas, Eduardo quer ampliar sua capacidade de atuação por meio de um mandato baseado em trabalho, presença, fiscalização e resultados concretos.",
-  },
-  {
-    q: "Como falar com a equipe de Eduardo?",
-    a:
-      "Você pode entrar em contato pelo WhatsApp oficial disponível no site e acompanhar os canais oficiais de Eduardo Vidal.",
-  },
-];
-
 export const nav = [
   { label: "Quem é", href: "#quem-e" },
   { label: "Bandeiras", href: "#bandeiras" },
-  { label: "Território", href: "#territorio" },
+  { label: "São Paulo e Jundiaí", href: "#territorio" },
+  { label: "O que já fiz", href: "#realizacoes" },
   { label: "Atuação", href: "#atuacao" },
-  { label: "Trajetória", href: "#trajetoria" },
-  { label: "Resultados", href: "#resultados" },
-  { label: "Dúvidas", href: "#faq" },
 ];
 
 export const territory = {
   eyebrow: "Onde ele trabalha",
-  title: "São Paulo e Jundiaí: o território que ele conhece de perto.",
-  lead:
-    "Cearense de origem, Eduardo Vidal vive em São Paulo há mais de 15 anos. É na capital paulista que construiu sua vida profissional, sua atuação como ativista e a rede de diálogo que hoje sustenta seu trabalho político. Em 2026, amplia essa atuação também para Jundiaí e região.",
-  places: [
-    {
-      name: "São Paulo",
-      role: "Capital",
-      text:
-        "Base da atuação de Eduardo há mais de 15 anos. Foi na capital que ele começou a mobilização pelos direitos das pessoas com restrições alimentares, dialogou com associações, profissionais de saúde e comerciantes, e levou essas demandas ao debate público.",
-      facts: [
-        "Crescimento de 73% na votação em 2024, em relação a 2022",
-        "Resultado alcançado sem mandato e sem estrutura política tradicional",
-        "Rede de apoio construída bairro a bairro, na conversa direta",
-      ],
-    },
-    {
-      name: "Jundiaí e região",
-      role: "Interior paulista",
-      text:
-        "Eduardo mantém forte relação com Jundiaí e com as cidades do entorno. Em 2026, a candidatura a Deputado Federal amplia formalmente sua atuação para a região, levando a mesma agenda de saúde, inclusão e empreendedorismo ao interior.",
-      facts: [
-        "Agenda regional em construção junto a lideranças locais",
-        "Foco em saúde, educação e apoio a quem empreende",
-        "Escuta permanente das demandas do interior paulista",
-      ],
-    },
+  title: "São Paulo e Jundiaí: trabalho, família e compromisso.",
+  paragraphs: [
+    "Há mais de 15 anos em São Paulo, Eduardo Vidal, cearense, construiu aqui sua vida profissional, sua família e sua atuação por políticas públicas.",
+    "Apaixonado por Jundiaí, encontrou uma cidade que quer ajudar a avançar. O compromisso é ouvir quem vive seus problemas todos os dias e usar a experiência de articulação em Brasília para defender mais recursos, atenção e representação para a cidade.",
   ],
   done: [
     {
-      title: "Levou uma pauta de São Paulo para Brasília",
-      text:
-        "A mobilização iniciada em 2019, a partir do contato direto com famílias em São Paulo, chegou ao Congresso Nacional e virou proposta legislativa.",
+      title: "4 propostas",
+      text: "Participou da elaboração de propostas apresentadas no Congresso Nacional.",
     },
     {
-      title: "Participou da elaboração de 4 propostas",
-      text:
-        "Quatro propostas apresentadas no Congresso Nacional contaram com a participação de Eduardo em sua elaboração, além da articulação de diversos outros projetos.",
+      title: "Brasília sem mandato",
+      text: "Articulou apoio para fazer projetos e pautas avançarem no Congresso.",
     },
     {
-      title: "Destravou pautas paradas há anos",
-      text:
-        "Sua atuação ajudou a movimentar propostas que permaneciam sem avanço, com reuniões e articulação junto a parlamentares de diferentes partidos.",
-    },
-    {
-      title: "Cresceu 73% na capital em 2024",
-      text:
-        "Sem mandato e sem máquina política, ampliou em 73% sua votação na cidade de São Paulo em relação a 2022 — reflexo de presença e trabalho contínuo.",
+      title: "Mobilização desde 2019",
+      text: "Transformou uma demanda de famílias em atuação nacional por políticas públicas.",
     },
   ],
 };
+
+export const about = {
+  quote: "Mandato não é o ponto de partida. É consequência de quem já estava trabalhando.",
+  support: "Não quero um mandato para começar a trabalhar. Quero um mandato para fazer mais.",
+  paragraphs: [
+    "Eduardo Vidal construiu sua atuação pública a partir de problemas reais. Desde 2019, participa da mobilização nacional pelos direitos das pessoas com doença celíaca e outras restrições alimentares, transformando demandas de famílias em propostas e articulação política.",
+    "Foi nesse trabalho que aprendeu a percorrer o caminho entre uma necessidade da sociedade e uma decisão pública: ouvir quem vive o problema, estudar soluções, construir propostas e buscar apoio dentro do Congresso Nacional.",
+    "Sem mandato, participou da elaboração de propostas apresentadas no Congresso e articulou o avanço de projetos relacionados à saúde, alimentação segura e inclusão.",
+    "Em 2026, é candidato a deputado federal por São Paulo, número 2023, para ampliar esse trabalho e também ajudar Jundiaí a ter mais voz em Brasília.",
+  ],
+};
+
+export const manifesto = [
+  "Política de verdade dá trabalho.",
+  "Exige ouvir, estudar, negociar, cobrar e acompanhar.",
+  "Porque problema real não se resolve com promessa.",
+];
 
 export const actionPhotos = [
   {

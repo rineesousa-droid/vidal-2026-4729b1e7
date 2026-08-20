@@ -19,8 +19,9 @@ export function Hero() {
         <div className="pb-14 lg:pb-24">
           <p className="eyebrow inline-flex items-center gap-3 text-brand-yellow">
             <span className="h-px w-8 bg-brand-yellow" />
-            {candidate.office} · {candidate.state} · {candidate.election}
+            DEPUTADO FEDERAL • SÃO PAULO • VOTE {candidate.number}
           </p>
+
 
           <h1 className="mt-6 font-display text-[clamp(2.6rem,7.2vw,5.4rem)] font-900 italic leading-[0.92] tracking-tight">
             <span className="block font-extrabold not-italic">TRABALHO</span>

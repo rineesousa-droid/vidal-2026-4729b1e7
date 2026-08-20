@@ -3,7 +3,7 @@ import { stats } from "@/content/eduardo";
 export function Stats() {
   return (
     <section className="bg-surface">
-      <div className="mx-auto grid max-w-[1240px] grid-cols-1 gap-px overflow-hidden border-y border-border bg-border sm:grid-cols-2 lg:grid-cols-4">
+      <div className="mx-auto grid max-w-[1240px] grid-cols-1 gap-px overflow-hidden border-y border-border bg-border md:grid-cols-3">
         {stats.map((s, i) => (
           <div
             key={s.label}
