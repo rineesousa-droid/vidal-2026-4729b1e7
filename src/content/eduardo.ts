@@ -104,8 +104,8 @@ export const territory = {
 };
 
 export const about = {
-  quote: "Mandato não é o ponto de partida. É consequência de quem já estava trabalhando.",
-  support: "Não quero um mandato para começar a trabalhar. Quero um mandato para fazer mais.",
+  quote: "Não quero um mandato para começar a trabalhar. Quero um mandato para fazer mais.",
+  support: "Trabalho antes do mandato.",
   paragraphs: [
     "Eduardo Vidal construiu sua atuação pública a partir de problemas reais. Desde 2019, participa da mobilização nacional pelos direitos das pessoas com doença celíaca e outras restrições alimentares, transformando demandas de famílias em propostas e articulação política.",
     "Foi nesse trabalho que aprendeu a percorrer o caminho entre uma necessidade da sociedade e uma decisão pública: ouvir quem vive o problema, estudar soluções, construir propostas e buscar apoio dentro do Congresso Nacional.",
